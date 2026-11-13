@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-31T13:25:14 EDT" name="Default suite" finished-at="2026-10-31T13:25:19 EDT" duration-ms="4755">
+    <groups>
+    </groups>
+    <test started-at="2026-10-31T13:25:14 EDT" name="Default test" finished-at="2026-10-31T13:25:19 EDT" duration-ms="4755">
+      <class name="DynamicJson">
+        <test-method signature="addBook(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DynamicJson@1700915]" started-at="2026-10-31T13:25:14 EDT" name="addBook" data-provider="BooksData" finished-at="2026-10-31T13:25:17 EDT" duration-ms="2652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selenium-java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aabbcc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4455]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DynamicJson@1700915]" started-at="2026-10-31T13:25:17 EDT" name="addBook" data-provider="BooksData" finished-at="2026-10-31T13:25:18 EDT" duration-ms="1051" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Playwright-Javascript]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ddeeff]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6677]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DynamicJson@1700915]" started-at="2026-10-31T13:25:18 EDT" name="addBook" data-provider="BooksData" finished-at="2026-10-31T13:25:19 EDT" duration-ms="1023" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TOSCA-Nocode]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gghhii]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8899]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
